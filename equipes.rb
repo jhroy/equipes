@@ -3,8 +3,10 @@
 
 fichier = "Équipes EDM4433 - H2015.txt"
 
+# J'ai remplacé le nom des étudiants par des chefs d'État ou de gouvernement
 edm4433 = ["Stephen Harper", "Philippe Couillard", "Kathleen Wynne", "Brian Gallant", "Barack Obama", "François Hollande", "David Cameron", "Mariano Rajoy", "Artur Mas", "Angela Merkel", "Michel Martelly", "Dilma Rousseff", "Enrique Peña Nieto", "Xi Jinping", "Shinzo Abe", "Narendra Modi", "Jacob Zuma", "Benjamin Netanyahou", "Vladimir Poutine", "Petro Porochenko", "Tony Abbott", "Matteo Renzi", "Pedro Passos Coelho", "Cristina Kirchner", "Raul Castro", "Nicolas Maduro", "Abdel Fatah Al-Sissi", "Alassane Ouattara", "Kim Jong-un", "Michelle Bachelet"]
 
+# Équipes de la session précédente
 eq5242 = [[edm4433[17], edm4433[18], edm4433[22]], [edm4433[4], edm4433[7], edm4433[12]], [edm4433[11], edm4433[23],edm4433[29]], [edm4433[19], edm4433[28]], [edm4433[2], edm4433[9]], [edm4433[16], edm4433[24], edm4433[26]], [edm4433[5], edm4433[8], edm4433[20]], [edm4433[10], edm4433[27]], [edm4433[6], edm4433[15], edm4433[1]]]
 
 File.open(fichier, 'w') { |file| file.write("Liste d'équipes - EDM4433 - Hiver 2015\n\n" + "="*50 + "\n\n") }
