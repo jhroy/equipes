@@ -19,9 +19,8 @@ edm5242 = [
 	["Nelson Mandela", "Desmond Tutu", "Oliver Tambo"],
 	["Rosa Parks", "Malcolm X", "Martin Luther King"],
 	["Fidel Castro", "Ernesto Che Guevara", "Celia Sanchez"],
-	
-	["Briffault Claire", "Parent Maude", "Tavernier-Labrie Frédérique"],
-	["Deschênes Félix", "Guilbault Jean-Philippe", "Pelchat-Labelle Louis"],
+	["Jean Moulin", "Daniel Cordier", "Jean-Pierre Lévy"],
+	["Juan Modesto", "José Diaz", "Lluis Companys"],
 	["Boulianne Alexis", "Lamoureux Samuel", "Lemelin Philippe"],
 	["Dancause Samuel", "Groguhé Marissa", "Pednault-Parent Camille"],
 	["Balthazar Jean", "Boni-Rowe Nicolas", "Breton François"],
