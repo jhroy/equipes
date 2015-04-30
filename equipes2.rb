@@ -21,26 +21,12 @@ edm5242 = [
 	["Fidel Castro", "Ernesto Che Guevara", "Celia Sanchez"],
 	["Jean Moulin", "Daniel Cordier", "Jean-Pierre Lévy"],
 	["Juan Modesto", "José Diaz", "Lluis Companys"],
-	["Boulianne Alexis", "Lamoureux Samuel", "Lemelin Philippe"],
-	["Dancause Samuel", "Groguhé Marissa", "Pednault-Parent Camille"],
-	["Balthazar Jean", "Boni-Rowe Nicolas", "Breton François"],
-	["Harvey Matisse", "Sénécal Véronique", "Legendre Jasmine"],
-	["Côté Raphaël", "Séguin Elizabeth", "Villeneuve Ali"],
-	["Beaulieu David", "D'Onofrio Simon", "Pecourt Shannon"],
-	["Hébert Maxime", "Lepage Guillaume", "Richard Amélie"],
-	["Jetté Geneviève", "Belzile Justine", "Triffault Nicolas"],
-	["Gendron Myriam", "Mailhot Hélène", "Sofia-Myriam Nicolau"]
+	["Martine Desjardins", "Gabriel Nadeau-Dubois", "Anarchopanda"]
 ]
 
 # étudiants inscrits à la session en cours
-inscrits = ["Bergeron Cloé", "Joo Raphaëlle", "Tancrède Pénéloppe", "Soucy Mélina",
-	"Blanchet Emond Geneviève", "Daoust-Braun Sarah", "De Simone Frédérique", "ÉTUDIANT DE 3E ANNÉE #3",
-	"St-André Andy", "Proteau Alex", "Vaillancourt Carl", "Dumoulin Charlotte", "ÉTUDIANT DE 3E ANNÉE #4",
-	"Bernier Maxime", "Ouimet-Juteau Daphné", "Mercure-Langlois Lili", "Laferrière Mathieu",
-	"St-Amour Béland Magalie", "Daraiche Valérie", "Dupuis Léa", "Warnock-Marceau Nina",
-	"Dufort Cathyane", "Proulx-Chevarie Rose", "Landreville Nancy", "Scott Christophe",
-	"Laventure Camille", "LeBlanc Justine", "Roy-Brunet Béatrice", "ÉTUDIANT DE 3E ANNÉE #1",
-	"Desaulniers Gabryel", "Jolin-Dahel Leïla", "Laverdière Charles", "ÉTUDIANT DE 3E ANNÉE #2"
+inscrits = ["Patrice Lumumba", "Thomas Sankara", "Karl Marx", "Lénine", "Rosa Parks", "Malcolm X", "Mohandas Mahatma Gandhi", "Indira Gandhi",
+"Martine Desjardins", "Gabriel Nadeau-Dubois", "Anarchopanda", "Jeanne d'Arc", "Martin Luther", "Louis-Joseph Papineau", "Robert Nelson"
 ]
 
 edm4424 = []
