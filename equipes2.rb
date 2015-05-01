@@ -21,12 +21,13 @@ edm5242 = [
 	["Fidel Castro", "Ernesto Che Guevara", "Celia Sanchez"],
 	["Jean Moulin", "Daniel Cordier", "Jean-Pierre Lévy"],
 	["Juan Modesto", "José Diaz", "Lluis Companys"],
-	["Martine Desjardins", "Gabriel Nadeau-Dubois", "Anarchopanda"]
+	["Martine Desjardins", "Gabriel Nadeau-Dubois", "Anarchopanda"],
+	["Rafael Correa", "Evo Morales", "Hugo Chavez"]
 ]
 
 # étudiants inscrits à la session en cours
 inscrits = ["Patrice Lumumba", "Thomas Sankara", "Karl Marx", "Lénine", "Rosa Parks", "Malcolm X", "Mohandas Mahatma Gandhi", "Indira Gandhi",
-"Martine Desjardins", "Gabriel Nadeau-Dubois", "Anarchopanda", "Jeanne d'Arc", "Martin Luther", "Louis-Joseph Papineau", "Robert Nelson"
+"Martine Desjardins", "Gabriel Nadeau-Dubois", "Rafael Correa", "Evo Morales", "Anarchopanda", "Jeanne d'Arc", "Martin Luther", "Louis-Joseph Papineau", "Robert Nelson"
 ]
 
 edm4424 = []
