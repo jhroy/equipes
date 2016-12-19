@@ -3,6 +3,8 @@
 
 import csv
 from random import shuffle
+import time
+import datetime
 
 # On définit d'abord le nom du fichier texte dans lequel on va écrire notre liste d'équipes
 session = "Hiver 2017"
@@ -175,3 +177,14 @@ if len(inscrits) == 0:
 	print("#"*44)
 else:
 	print(inscrits)
+
+now = datetime.datetime.now()
+
+jour = now.day
+mois = time.strftime("%b")
+annee = now.year
+heure = time.strftime("%Hh%M")
+
+print("\nListe générée automagiquement par un script\nLe {} {} {} à {}".format(jour,mois,annee,heure))
+with open(fichier, "a") as f:
+	print("\nListe générée automagiquement par un script\nLe {} {} {} à {}".format(jour,mois,annee,heure), file=f)
