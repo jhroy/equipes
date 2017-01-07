@@ -37,6 +37,7 @@ def inscription(numEquipe,prenom1,nom1,e1,prenom2,nom2,e2):
 		print("-"*10, file=f)
 		print("{} {} ({})".format(prenom1,nom1,e1), file=f)
 		print("{} {} ({})".format(prenom2,nom2,e2), file=f)
+		# time.sleep(1)
 
 # Fonction en cas de blocage (quand il est impossible de faire en sorte que deux étudiants qui étaient ensemble dans le cours préalable ne soient pas dans la même équipe)
 def echec():

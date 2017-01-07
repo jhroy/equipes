@@ -1,0 +1,138 @@
+
+
+################################################################################
+Session Hiver 2017
+Nous avons 36 étudiants inscrits au cours EDM4424
+Nous aurons donc 18 équipes
+################################################################################
+
+
+Équipe 1
+----------
+Pablo Iglesias (6)
+Donald Trump (3)
+
+========================================
+
+Équipe 2
+----------
+Margaret Thatcher (8)
+Vicente Fox (5)
+
+========================================
+
+Équipe 3
+----------
+Hillary Rodham (3)
+Enrique Peña Nieto (5)
+
+========================================
+
+Équipe 4
+----------
+Helmut Kohl (7)
+Shinzo Abe (0)
+
+========================================
+
+Équipe 5
+----------
+Yasser Arafat (13)
+Xi Jinping (0)
+
+========================================
+
+Équipe 6
+----------
+Mikhaïl Gorbatchev (2)
+Françoise David (9)
+
+========================================
+
+Équipe 7
+----------
+Rachel Notley (4)
+Mariano Rajoy (6)
+
+========================================
+
+Équipe 8
+----------
+David Cameron (8)
+Justin Trudeau (4)
+
+========================================
+
+Équipe 9
+----------
+Laurent Lamothe (11)
+Pauline Marois (9)
+
+========================================
+
+Équipe 10
+----------
+Shimon Peres (12)
+Artur Mas (6)
+
+========================================
+
+Équipe 11
+----------
+Philippe Couillard (9)
+Vladimir Poutine (2)
+
+========================================
+
+Équipe 12
+----------
+Marine Lepen (1)
+Barack Obama (3)
+
+========================================
+
+Équipe 13
+----------
+Aung San Suu Kyi (0)
+Nicolas Sarkozy (1)
+
+========================================
+
+Équipe 14
+----------
+Mahmoud Abbas (13)
+Benyamin Netanyahou (12)
+
+========================================
+
+Équipe 15
+----------
+Michel Martelly (11)
+Theresa May (8)
+
+========================================
+
+Équipe 16
+----------
+Stephen Harper (4)
+Park Geun-hye (0)
+
+========================================
+
+Équipe 17
+----------
+Ehud Olmert (12)
+Kim Jong-un (0)
+
+========================================
+
+Équipe 18
+----------
+Angela Merkel (7)
+Jean-Bertrand Aristide (11)
+
+========================================
+
+
+Liste générée automagiquement par un script
+Le 7 Jan 2017 à 18h32
